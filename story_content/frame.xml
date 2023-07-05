@@ -1,0 +1,1331 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bwFrame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" default_layout="pxabnsnfns00001111111" textdirection="ltr" textengine="Uniscribe" device="false" fontscale="100" captionFontScale="100" kbshortcuts="false" skip_nav_enabled="true" chromeless="false" outputtype="undefined" theme="classic">
+  <layouts>
+    <layout name="npnxnanbsnfns00001111111" font="Open Sans" controllayout="npnxnanbsnfns00001111111" colorscheme="pxabnsnfns00001111111" string_table="pxabnsnfns00001111111" />
+    <layout name="pxabnsnfns00001111111" font="Open Sans" controllayout="pxabnsnfns00001111111" colorscheme="pxabnsnfns00001111111" string_table="pxabnsnfns00001111111" />
+    <layout name="npxnabnsnfns00001111111" font="Open Sans" controllayout="npxnabnsnfns00001111111" colorscheme="pxabnsnfns00001111111" string_table="pxabnsnfns00001111111" />
+    <layout name="npnxnanbnsnfns00001111111" font="Open Sans" controllayout="npnxnanbnsnfns00001111111" colorscheme="pxabnsnfns00001111111" string_table="pxabnsnfns00001111111" />
+    <layout name="pxabnsnfns00001111110" font="Open Sans" controllayout="pxabnsnfns00001111110" colorscheme="pxabnsnfns00001111111" string_table="pxabnsnfns00001111111" />
+  </layouts>
+  <control_options>
+    <optiongroups>
+      <optiongroup name="sidebaroptions">
+        <options>
+          <option name="title_enabled" value="true">
+            <options>
+              <option name="title_text" value="Upskilling Leaders to Improve Employee Engagement" />
+            </options>
+          </option>
+          <option name="logo_enabled" value="false">
+            <options />
+          </option>
+          <option name="sidebar_enabled" value="true">
+            <options>
+              <option name="sidebarpos" value="left" />
+            </options>
+          </option>
+          <optionlist name="tabs">
+            <listitems>
+              <listitem name="resources" value="true" group="linkright" />
+              <listitem name="outline" value="true" group="sidebar" />
+              <listitem name="glossary" value="true" group="sidebar" />
+              <listitem name="transcript" value="true" group="sidebar" />
+            </listitems>
+          </optionlist>
+          <option name="time_enabled" value="false">
+            <options>
+              <option name="time_format" value="elapsed" />
+            </options>
+          </option>
+          <option name="video_enabled" value="false">
+            <options>
+              <option name="height" value="135" />
+            </options>
+          </option>
+          <option name="logoAltText" />
+        </options>
+      </optiongroup>
+      <optiongroup name="menuoptions">
+        <options>
+          <option name="flow" value="free" />
+          <option name="wraplistitems" value="false" />
+          <option name="tooltips" value="true" />
+          <option name="autocollapse" value="true" />
+          <option name="autonumber" value="false" />
+          <option name="enableresultsicons" value="true" />
+        </options>
+      </optiongroup>
+      <optiongroup name="controls">
+        <options>
+          <option name="volume" value="true" />
+          <option name="seekbar" value="false">
+            <options>
+              <option name="readonly" value="false" />
+              <option name="readonlyOnce" value="false" />
+            </options>
+          </option>
+          <option name="search" value="true" />
+          <option name="pauseplay" value="false" />
+          <option name="replay" value="false" />
+          <option name="settings" value="true" />
+          <option name="closed_captions" value="true">
+            <options>
+              <option name="font" value="Open Sans" />
+            </options>
+          </option>
+        </options>
+      </optiongroup>
+      <optiongroup name="bottombaroptions">
+        <options>
+          <option name="bottombar_enabled" value="true" />
+        </options>
+      </optiongroup>
+    </optiongroups>
+  </control_options>
+  <control_layouts>
+    <control_layout name="npnxnanbsnfns00001111111">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="false" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="false" />
+      <control name="submit" enabled="true" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="true" />
+      <control name="glossary" enabled="true" />
+      <control name="transcript" enabled="true" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="pxabnsnfns00001111111">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="false" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="true" />
+      <control name="glossary" enabled="true" />
+      <control name="transcript" enabled="true" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="npxnabnsnfns00001111111">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="false" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="true" />
+      <control name="glossary" enabled="true" />
+      <control name="transcript" enabled="true" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="npnxnanbnsnfns00001111111">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="false" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="false" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="true" />
+      <control name="glossary" enabled="true" />
+      <control name="transcript" enabled="true" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="pxabnsnfns00001111110">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="false" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="true" />
+      <control name="glossary" enabled="true" />
+      <control name="transcript" enabled="true" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="false" />
+    </control_layout>
+  </control_layouts>
+  <colorschemes>
+    <colorscheme name="pxabnsnfns00001111111">
+      <color_group name="infopanel">
+        <group_colors>
+          <color name="link_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x7C2280" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="link_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0000EE" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="name_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="title_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x999999" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="infopanelpopup">
+        <group_colors>
+          <color name="link_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x7C2280" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="link_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0000EE" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE9E9E9" alpha="100" stop="0" />
+                <color rgb="0xCFCFCF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="name_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bio_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x999999" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="timer">
+        <group_colors>
+          <color name="duration">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x00D7FF" alpha="100" stop="0" />
+                <color rgb="0x00ABFF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="elapsed">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFEE347" alpha="100" stop="0" />
+                <color rgb="0xFCCC2A" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="stroke">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC7C7C7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x555555" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="window">
+        <group_colors>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x555555" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xEAEAEA" alpha="100" stop="0" />
+                <color rgb="0xCFCFCF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF3F3F3" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF7F7F7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD3D3D3" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="20" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="editor">
+        <group_colors>
+          <color name="slide_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x555555" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="html_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF5F5F5" alpha="100" stop="0" />
+                <color rgb="0xC7C7C7" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF2F2F2" alpha="100" stop="0" />
+                <color rgb="0xAFAFAF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_down">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC7C7C7" alpha="100" stop="0" />
+                <color rgb="0xF4F4F4" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB1B1B1" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x353535" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF0F0F0" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="listitem">
+        <group_colors>
+          <color name="selected_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x353535" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="lines">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xDFDFDF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE6E6E6" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="viewed">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x909090" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x353535" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC0E2F1" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="base">
+        <group_colors>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x555555" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD3D3D3" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF7F7F7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE9E9E9" alpha="100" stop="0" />
+                <color rgb="0xCFCFCF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE9E9E9" alpha="100" stop="0" />
+                <color rgb="0xF3F3F3" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="menu_shade">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xDBDBDB" alpha="100" stop="0" />
+                <color rgb="0xC3C3C3" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slide_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE9E9E9" alpha="100" stop="0" />
+                <color rgb="0xCFCFCF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="button">
+        <group_colors>
+          <color name="btn_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF5F5F5" alpha="100" stop="0" />
+                <color rgb="0xC7C7C7" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF2F2F2" alpha="100" stop="0" />
+                <color rgb="0xAFAFAF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_down">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC7C7C7" alpha="100" stop="0" />
+                <color rgb="0xF4F4F4" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB1B1B1" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x353535" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF0F0F0" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x353535" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_glow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xCFCFCF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="checkbox">
+        <group_colors>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="check">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x33CC00" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x6BF8FF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="logo">
+        <group_colors>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="menu">
+        <group_colors>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF3F3F3" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="scrollarea">
+        <group_colors>
+          <color name="bg">
+            <fill type="linear" rotation="0">
+              <colors>
+                <color rgb="0xDEDEDE" alpha="100" stop="0" />
+                <color rgb="0xE8E8E8" alpha="100" stop="128" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF6F6F6" alpha="100" stop="0" />
+                <color rgb="0xF3F3F3" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC4C4C4" alpha="100" stop="0" />
+                <color rgb="0xB2B2B2" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xCBCBCB" alpha="100" stop="0" />
+                <color rgb="0xBABABA" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="icons">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x555555" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD9D9D9" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="detaila">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xA7A7A7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="detailb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xCFCFCF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="searchinput">
+        <group_colors>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xDFDFDF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xADADAD" alpha="100" stop="0" />
+                <color rgb="0xFAFAFA" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="icon">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x8A8A8A" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF5F5F5" alpha="100" stop="0" />
+                <color rgb="0xC7C7C7" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover_glow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x6BF8FF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="search_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x8A8A8A" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg_active">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFAFAFA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text_active">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x333333" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="seekcontrol">
+        <group_colors>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF5F5F5" alpha="100" stop="0" />
+                <color rgb="0xC7C7C7" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB1B1B1" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+                <color rgb="0xEEEEEE" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE7E7E7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_position">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2D2D2D" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x555555" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF0F0F0" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="tabs">
+        <group_colors>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF3F3F3" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x555555" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x333333" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x333333" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF0F0F0" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="transcript">
+        <group_colors>
+          <color name="div">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE1E1E1" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="heading_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="outline">
+        <group_colors>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC6C6C6" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF9F9F9" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divc">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE1E1E1" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="search_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="search_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0000EE" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="resource">
+        <group_colors>
+          <color name="separator">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE0E0E0" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="glossary">
+        <group_colors>
+          <color name="selected_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x353535" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC0E2F1" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x353535" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE6E6E6" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE2E2E2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE2E2E2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divc">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFAFAFA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE7E7E7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="heading_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="volume">
+        <group_colors>
+          <color name="thumb_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xA5A5A5" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="thumb_inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD4D4D4" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="thumb_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC8C8C8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slider_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF2F2F2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slider_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xBCBCBC" alpha="100" stop="0" />
+                <color rgb="0xBCBCBC" alpha="100" stop="128" />
+                <color rgb="0xC3C3C3" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="accessibility">
+        <group_colors>
+          <color name="focus_rect">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFF00" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+    </colorscheme>
+  </colorschemes>
+  <string_tables>
+    <string_table name="pxabnsnfns00001111111">
+      <string id="three_image_progress_audio">progress</string>
+      <string id="three_image_audio">audio</string>
+      <string id="three_image_camera_down">camera moved down</string>
+      <string id="three_image_camera_left">camera moved left</string>
+      <string id="three_image_camera_right">camera moved right</string>
+      <string id="three_image_camera_up">camera moved up</string>
+      <string id="three_image_interaction_free">free exploration mode</string>
+      <string id="three_image_interaction_guided">guided tour mode</string>
+      <string id="three_image_hotspot">hotspot</string>
+      <string id="three_image_instructions">Use the w, a, s, and d keys to move around the 360 degree image. Press the tab key to jump to interactive markers and hotspots.</string>
+      <string id="three_image_interaction">360 degree image interaction</string>
+      <string id="three_image_label">label</string>
+      <string id="three_image_marker">marker</string>
+      <string id="three_image_items">items</string>
+      <string id="three_image_interaction_next">next</string>
+      <string id="three_image_pause_audio">pause audio</string>
+      <string id="three_image_pause_video">pause video</string>
+      <string id="three_image_play_audio">play audio</string>
+      <string id="three_image_play_video">play video</string>
+      <string id="three_image_interaction_prev">previous</string>
+      <string id="three_image_visited">visited</string>
+      <string id="three_image_of">of</string>
+      <string id="three_image_count_of_total">%count% of %total%</string>
+      <string id="acc_three_image_step_count_of_total">step %count% of %total%</string>
+      <string id="three_image_item">item</string>
+      <string id="three_image_interaction_step">step</string>
+      <string id="three_image_tooltip">tooltip</string>
+      <string id="three_image_total_items">%total% items</string>
+      <string id="three_image_total_item">%total% item</string>
+      <string id="three_image_progress_video">progress</string>
+      <string id="three_image_video">video</string>
+      <string id="three_image_video_volume">video volume</string>
+      <string id="acc_three_image_count_of_total_items_visited">%count% of %total% items visited</string>
+      <string id="acc_three_image_count_of_total_item_visited">%count% of %total% item visited</string>
+      <string id="three_image_count_of_total_visited">%count% of %total% visited</string>
+      <string id="accessible_text">Accessible text</string>
+      <string id="keyboardshortcuts_lower">Keyboard shortcuts</string>
+      <string id="zoom_to_fit">Zoom to fit</string>
+      <string id="acc_active">active</string>
+      <string id="alt_key">Alt</string>
+      <string id="check_include">Check to include</string>
+      <string id="clear">Clear and return to Menu</string>
+      <string id="close">Close</string>
+      <string id="acc_closed_captions">Closed captions. Press the spacebar to toggle captions on and off.</string>
+      <string id="closed_captions_tip">Toggle captions</string>
+      <string id="continue">Continue</string>
+      <string id="continueresponsive">Continue</string>
+      <string id="ctrl_key">Ctrl</string>
+      <string id="enable_keyboardshortcuts">Enable keyboard shortcuts</string>
+      <string id="enter_key">Enter</string>
+      <string id="exit">Exit</string>
+      <string id="filter">Filter</string>
+      <string id="finish">FINISH</string>
+      <string id="acc_finish">finish</string>
+      <string id="definition">Definition</string>
+      <string id="acc_definition">definition</string>
+      <string id="glossary">Glossary</string>
+      <string id="terms">Terms</string>
+      <string id="progress_hour">hour</string>
+      <string id="progress_hours">hours</string>
+      <string id="action">Action</string>
+      <string id="keyboardshortcuts">Keyboard Shortcuts</string>
+      <string id="shortcuthelp">List keyboard shortcuts</string>
+      <string id="mute_shortcut">Mute / unmute</string>
+      <string id="next_shortcut">Next slide</string>
+      <string id="playpause_shortcut">Play / pause</string>
+      <string id="previous_shortcut">Previous slide</string>
+      <string id="replay_shortcut">Replay slide</string>
+      <string id="shortcut">Shortcut</string>
+      <string id="submit_shortcut">Submit slide</string>
+      <string id="acctext_shortcut">Toggle accessible text</string>
+      <string id="closedcaptions_shortcut">Toggle closed captions</string>
+      <string id="togglezoom">Toggle zoom to fit</string>
+      <string id="outline">Menu</string>
+      <string id="disabled_orientation">Please rotate your device</string>
+      <string id="progress_minute">minute</string>
+      <string id="progress_minutes">minutes</string>
+      <string id="mute_tip">Mute</string>
+      <string id="next">NEXT</string>
+      <string id="acc_next">next</string>
+      <string id="next_slide_tip">Next slide</string>
+      <string id="transcript_chk">Notes</string>
+      <string id="transcript">Notes</string>
+      <string id="bio">Bio</string>
+      <string id="more_info">More info</string>
+      <string id="closed_captions">Captions</string>
+      <string id="acc_pause">pause</string>
+      <string id="pause_tip">Pause</string>
+      <string id="acc_play">play</string>
+      <string id="play_tip">Play</string>
+      <string id="send_an_email">Send an email</string>
+      <string id="prev">PREV</string>
+      <string id="acc_previous">previous</string>
+      <string id="previous_slide_tip">Previous slide</string>
+      <string id="question_list">Question List</string>
+      <string id="replay_tip">Replay</string>
+      <string id="acc_replay">replay</string>
+      <string id="resources">Resources</string>
+      <string id="acc_resources">resources</string>
+      <string id="restart">Restart</string>
+      <string id="resume">Resume</string>
+      <string id="acc_locked">locked</string>
+      <string id="acc_search_input">search</string>
+      <string id="search_toggle">Search</string>
+      <string id="sidebar_toggle">Sidebar Toggle</string>
+      <string id="acc_slide_progress">slide progress</string>
+      <string id="desktop_start">Start Course</string>
+      <string id="mobile_start">Start Course</string>
+      <string id="acc_visited">visited</string>
+      <string id="search">Search...</string>
+      <string id="search_in">Search in:</string>
+      <string id="search_results">Search Results</string>
+      <string id="progress_second">second</string>
+      <string id="progress_seconds">seconds</string>
+      <string id="settings_tip">Settings</string>
+      <string id="shift_key">Shift</string>
+      <string id="acc_skipnavigation">Skip Navigation. Hit enter to return to the slide.</string>
+      <string id="slide_text_chk">Slide Text</string>
+      <string id="spacebar_key">Space</string>
+      <string id="submitall">SUBMIT ALL</string>
+      <string id="acc_submitall">submit all</string>
+      <string id="submit">SUBMIT</string>
+      <string id="acc_submit">submit</string>
+      <string id="submit_tip">Submit</string>
+      <string id="unmute_tip">Unmute</string>
+      <string id="acc_volume">volume</string>
+    </string_table>
+  </string_tables>
+  <fonts>
+    <font name="Open Sans">
+      <files>
+        <file bold="true" italic="false" />
+        <file bold="false" italic="false" />
+      </files>
+    </font>
+  </fonts>
+  <sounds enabled="true" />
+  <nav_data>
+    <outline>
+      <links>
+        <slidelink slideid="_player.6mOi7YZnJRD" displaytext="Course Sections" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.6mOi7YZnJRD.6FE3dNOqlbr" displaytext="A Training Program for Newly Promoted Leaders" expand="false" type="slide" />
+            <slidelink slideid="_player.6mOi7YZnJRD.5mWPrd5vb5Z" displaytext="Course Objectives" expand="false" type="slide" />
+            <slidelink slideid="_player.6mOi7YZnJRD.6JqMEh5UodO" displaytext="Introduction" expand="false" type="slide" />
+            <slidelink slideid="_player.6mOi7YZnJRD.5iXP6briZ8G" displaytext="What is employee engagement?" expand="false" type="slide" />
+            <slidelink slideid="_player.6mOi7YZnJRD.5d3Gdc1mmPZ" displaytext="What are the challenges of employee engagement?" expand="false" type="slide" />
+            <slidelink slideid="_player.6mOi7YZnJRD.67WYeL3bLxK" displaytext="Challenges faced by  newly promoted leaders in handling team performance" expand="false" type="slide" />
+            <slidelink slideid="_player.6mOi7YZnJRD.5aiUCdmqL4j" displaytext="Continuation.….." expand="false" type="slide" />
+            <slidelink slideid="_player.6mOi7YZnJRD.6BXX9KZimQs" displaytext="Continuation.….." expand="false" type="slide" />
+            <slidelink slideid="_player.6mOi7YZnJRD.6jYfFeXzGCK" displaytext="Role of leadership in fostering employee engagement" expand="false" type="slide" />
+            <slidelink slideid="_player.6mOi7YZnJRD.68maVLVzKpu" displaytext="Qualities of an effective leader" expand="false" type="slide" />
+            <slidelink slideid="_player.6mOi7YZnJRD.6qmp004CFMM" displaytext="Practical strategies for improving employee engagement" expand="false" type="slide" />
+            <slidelink slideid="_player.6mOi7YZnJRD.64WA6GQ5QI9" displaytext="Continuation.….." expand="false" type="slide" />
+            <slidelink slideid="_player.6mOi7YZnJRD.5e2zrhQkiXv" displaytext="Importance of performance management in team success" expand="false" type="slide" />
+            <slidelink slideid="_player.6mOi7YZnJRD.5iSvm7BBfcF" displaytext=" Steps for performance management" expand="false" type="slide" />
+            <slidelink slideid="_player.6mOi7YZnJRD.6XfJxblmRqm" displaytext=" Steps for performance management" expand="false" type="slide" />
+            <slidelink slideid="_player.6mOi7YZnJRD.6dA3FYOT9vj" displaytext="How effective feedback can improve employee engagement and performance" expand="false" type="slide" />
+            <slidelink slideid="_player.6mOi7YZnJRD.6MAodgI0qFn" displaytext="Elements of effective feedback:" expand="false" type="slide" />
+            <slidelink slideid="_player.6mOi7YZnJRD.6pTrYMYblIP" displaytext="Practical steps to giving feedback" expand="false" type="slide" />
+            <slidelink slideid="_player.6mOi7YZnJRD.5aAOaSuveBf" displaytext="Summary" expand="false" type="slide" />
+            <slidelink slideid="_player.6mOi7YZnJRD.5rhbxkhZzuA" displaytext="Question 1" expand="false" type="slide" />
+            <slidelink slideid="_player.6mOi7YZnJRD.61pLLgzWDlQ" displaytext="Question 2" expand="false" type="slide" />
+            <slidelink slideid="_player.6mOi7YZnJRD.5nKTsy2RRYQ" displaytext="Question 3" expand="false" type="slide" />
+            <slidelink slideid="_player.6mOi7YZnJRD.6mxOsJVp9NU" displaytext="Survey" expand="false" type="slide" />
+            <slidelink slideid="_player.6mOi7YZnJRD.6A0PnJHhvaQ" displaytext="Contact Information" expand="false" type="slide" />
+            <slidelink slideid="_player.6mOi7YZnJRD.6XiMASW1jlk" displaytext="EXIT Course" expand="false" type="slide" />
+          </links>
+        </slidelink>
+      </links>
+    </outline>
+    <search>
+      <slidetext slideid="6mOi7YZnJRD.6FE3dNOqlbr" slidebank="false" type="slide">    start  course    start  course    start  course  presenter: henry nyoike date: 5th july 2023  empowering leaders: improving employee engagement and performance a training program for newly promoted leaders</slidetext>
+      <slidetext slideid="6mOi7YZnJRD.5mWPrd5vb5Z" slidebank="false" type="slide"> effective feedback objective 07 07 performance management objective 06 06 strategies for improving employee engagement objective 05 05 understanding the challenges of leadership transition objective 03 03 identifying the challenges faced by leaders objective 02 02 understanding employee engagement objective 01 01 course objectives objectives of this presentation  improving employee engagement through leadership objective 04 04 course evaluation objective 08 08</slidetext>
+      <slidetext slideid="6mOi7YZnJRD.6JqMEh5UodO" slidebank="false" type="slide">welcome new leaders! congratulations on your promotion. i know you're excited to start this new chapter in your career, but you may also be feeling a bit overwhelmed. that's why we're here today to talk about employee engagement. introduction welcome and agenda overview</slidetext>
+      <slidetext slideid="6mOi7YZnJRD.5iXP6briZ8G" slidebank="false" type="slide">engaged employees are more likely to stay with their company. the average employee turnover rate is 15%, but for engaged employees, it's only 5%. 03 engaged employees are more creative. engaged employees are more likely to come up with new ideas and solutions. 02 engaged employees are more productive. studies have shown that engaged employees are 20% more productive than disengaged employees. 01 employee engagement is the degree to which employees feel connected to their work, their team, and their organization. engaged employees are more productive, more creative, and more likely to stay with their company. what is employee engagement? understanding employee engagement why is employee engagement important? there are many reasons why employee engagement is important. here are just a few:</slidetext>
+      <slidetext slideid="6mOi7YZnJRD.5d3Gdc1mmPZ" slidebank="false" type="slide">lack of opportunities for growth. employees need to feel like they're growing and developing in their careers. 03 lack of recognition. employees need to feel appreciated for their work. 02 lack of communication. employees need to feel like they're part of the team and that their voices are heard. 01 there are a number of challenges that can affect employee engagement. here are a few of the most common: what are the challenges of employee engagement? identifying the challenges faced by leaders</slidetext>
+      <slidetext slideid="6mOi7YZnJRD.67WYeL3bLxK" slidebank="false" type="slide">a 2016 survey of the grovo learning platform found that 44 percent of new managers felt unprepared for their role. further, 87 percent of new managers expressed that they needed more training before becoming a manager. according to a survey of 2200 cfos by robert half management resources, the most difficult part of becoming a new manager was balancing individual job responsibilities with the time spent managing others. the second biggest challenge cited was supervising friends and former peers. challenges faced by  newly promoted leaders in handling team performance understanding the challenges of leadership transition grovo learning platform survey   prepared unprepared     need training not need training  </slidetext>
+      <slidetext slideid="6mOi7YZnJRD.5aiUCdmqL4j" slidebank="false" type="slide">being consistent: being consistent and fair with the whole group to create a positive working environment. you can not play favorites with those you are friends with, it will damage the team’s effectiveness and your ability to lead. 03 fostering an environment of collaboration: it is important to foster a collaborative work environment. regularly ask for feedback from the group. 02 managing your peers and friends: maintaining friendships with those you lead is tricky, and you need to establish that work and your friendship are separate. laying the groundwork with open dialogue can help with the transition.  01 when newly promoted leaders take on the responsibility of managing a team and handling team performance, they may face several challenges. here are some common challenges they may encounter: continuation.….. understanding the challenges of leadership transition 04 balancing individual and team responsibilities:  as a leader, you'll need to be able to juggle your own work with the responsibilities of managing your team. this can be a challenge, especially if you're not used to delegating tasks.</slidetext>
+      <slidetext slideid="6mOi7YZnJRD.6BXX9KZimQs" slidebank="false" type="slide">being consistent: being consistent and fair with the whole group to create a positive working environment. you can not play favorites with those you are friends with, it will damage the team’s effectiveness and your ability to lead. 06 managing conflict:  conflict is inevitable in any workplace, but it can be especially challenging for new leaders. you'll need to be able to mediate conflict effectively and help your team members resolve their differences.  05 understanding the challenges of leadership transition 07 motivating and inspiring your team: a key part of leadership is motivating and inspiring your team to achieve their goals. this means being able to set clear expectations, provide regular feedback, and celebrate successes. 08 managing change. change is a constant in the workplace, and new leaders need to be able to manage change effectively. this means being able to communicate effectively, listen to feedback, and adapt to new situations continuation.…..</slidetext>
+      <slidetext slideid="6mOi7YZnJRD.6jYfFeXzGCK" slidebank="false" type="slide">when workers are unmotivated and disengaged, it’s easy to blame tools, processes, even workplace culture as contributing factors. but more often than not disengagement boils down to a lack of effective leadership. effective leaders prioritize engagement and create a culture that values input and innovation. leaders who are effective are capable of unlocking what vega factor co-founder lindsay mcgregor calls “total employee motivation.” according to mcgregor, leaders need to inspire their employees not just to execute their jobs well, but to also find purpose within their roles. role of leadership in fostering employee engagement  improving employee engagement through leadership</slidetext>
+      <slidetext slideid="6mOi7YZnJRD.68maVLVzKpu" slidebank="false" type="slide">here are some ways leaders can better connect with their teams, encourage collaborative leadership, and inspire team members to do their very best work.    qualities of an effective leader  improving employee engagement through leadership  01 employees trust leaders who both lead and follow good company leaders don’t needlessly exhibit authoritative behavior. according to psychologists kim peters and alex haslam, who conducted the study, i follow, therefore i lead, leaders can benefit by showing others that they can be followers who are willing to roll up their sleeves and actually work within the group. 02 passion and positivity increase employee performance showing enthusiasm for your work, and conveying this passion to others, can help increase performance and employee engagement. 03 effective leadership prioritizes organizational health when it comes to championing teams, the five effective leadership qualities that truly matter are:providing opportunities for growth,inspiring and motivating employees,being open and trusting, offering financial incentives, assessing and managing risks.  04 “take care of your people, and they’ll take care of the mission” leaders need to demonstrate a sincere interest and trust in their teams. a study by mckinsey shows that supporting employees—along with problem-solving, collaborating, and improving productivity—accounts for 89% of overall leadership effectiveness.</slidetext>
+      <slidetext slideid="6mOi7YZnJRD.6qmp004CFMM" slidebank="false" type="slide">improving employee engagement is crucial for creating a positive work environment, boosting productivity, and retaining talented employees. here are some practical strategies to enhance employee engagement:  practical strategies for improving employee engagement strategies for improving employee engagement  01 clear communication: foster open and transparent communication channels throughout the organization. ensure that employees are well-informed about company updates, goals, and expectations. encourage two-way communication, active listening, and regular feedback. 02 recognition and rewards: acknowledge and appreciate employees' efforts and achievements. recognize their contributions publicly or privately and provide meaningful rewards or incentives. this can be in the form of monetary bonuses, promotions, additional responsibilities, or even simple gestures like a thank-you note or employee of the month program.  03 professional development:  invest in the growth and development of your employees. offer opportunities for training, skill enhancement, and career advancement. support their aspirations by providing mentorship programs, coaching, and educational resources. employees who see a clear path for growth are more likely to be engaged and committed.</slidetext>
+      <slidetext slideid="6mOi7YZnJRD.64WA6GQ5QI9" slidebank="false" type="slide">continuation.….. strategies for improving employee engagement  04 employee well-being: prioritize the well-being of your employees. offer a supportive work environment, promote work-life balance, and encourage self-care practices. provide benefits like flexible work hours, wellness programs, mental health resources, and ergonomic workstations. demonstrating concern for their overall well-being helps employees feel valued and engaged. 05 empowerment and autonomy: provide employees with the freedom to make decisions and take ownership of their work. allow them to have autonomy in how they complete tasks, as this fosters a sense of responsibility and engagement. encourage them to share ideas, opinions, and suggestions, and involve them in decision-making processes when appropriate.  06 team building and collaboration: foster a sense of belonging and camaraderie among employees. encourage team-building activities, both formal and informal, to strengthen relationships and create a positive work culture. foster collaboration by promoting cross-functional projects, encouraging knowledge sharing, and creating opportunities for teamwork.  07 regular feedback and performance management:  establish a robust feedback and performance management system. conduct regular performance reviews, set clear goals and expectations, and provide constructive feedback. encourage ongoing conversations about development and growth opportunities.</slidetext>
+      <slidetext slideid="6mOi7YZnJRD.5e2zrhQkiXv" slidebank="false" type="slide">performance management is important for team success because it helps with goal setting, engaging the team, improving productivity, establishing transparency, helping team member make improvements, recognizing high performers, and helping with leadership development .  it is the major key in increasing productivity within a group. performance management centers on allowing an individual to perform to the best of his or her ability. this enables the employee to meet or exceed expectations and develop efficient communication with his or her fellow employees and leaders.  importance of performance management in team success performance management</slidetext>
+      <slidetext slideid="6mOi7YZnJRD.5iSvm7BBfcF" slidebank="false" type="slide">performance management is one of the most important processes you can implement in your team.it helps train employees, develop their talent, improve their relationship with you as a leader, and take on more responsibility within the company. what is the performance management process?the performance management process is a collaborative, communication-based process where employees and their leader work together to plan, monitor and review the employee’s objectives, long-term goals, job trajectory and comprehensive contribution to the company. according to the gallup state of the american workplace study, only 22% of employees are engaged and thriving. employees who are engaged and thriving are more likely to maintain strong work performance, even during difficult times. this also means that 78% of the workforce could do better work if only their organization had the right type of management process.   steps for performance management performance management  gallup state of the american workplace    engaged and thriving not engaged and thriving  </slidetext>
+      <slidetext slideid="6mOi7YZnJRD.6XfJxblmRqm" slidebank="false" type="slide">the steps in the performance management process can be broken down into four broad categories: planning, coaching, reviewing and rewarding. each step is equally important, and together form the backbone of a company’s performance management process. 01 performance management  02 coaching organize meetings on a timely, regular basis, provide necessary training, coaching and solutions, solicit feedback. 03 reviewing review employee performance, the performance management process,  overall goal completion and give actionable feedback   steps for performance management planningthe first step of the performance management process is planning.  04 action reward and recognition.  this step is absolutely key – employees will not stay motivated if they are given no reason to.</slidetext>
+      <slidetext slideid="6mOi7YZnJRD.6dA3FYOT9vj" slidebank="false" type="slide">effective feedback is a critical component of management that promotes employee loyalty and performance. it should use specific examples of behaviors, projects, and outcomes to illustrate both positive and constructive comments. effective feedback should also be rooted in facts, rather than feelings, and balance constructive feedback with positive feedback in a 3:1 ratio1. employee feedback doesn’t just encourage professional development and spur richer communications, it can have a powerful effect on employee engagement levels and workplace culture as a whole. in fact, a study found that 85% of employees take more initiative when they receive feedback in the workplace effective feedback  how effective feedback can improve employee engagement and performance</slidetext>
+      <slidetext slideid="6mOi7YZnJRD.6MAodgI0qFn" slidebank="false" type="slide">feedback is a means of improvement. it helps individuals shape their actions to better meet the needs of an team leader. here are some common elements of effective feedback:  01 effective feedback  02 communicative: communicative feedback creates a collaborative environment. in comparison to written feedback, communicative feedback allows team members to ask questions or gain more clarity. 03 constructive: effective feedback is constructive, offering positive solutions. only offer feedback on actions or tasks that can be improved.  elements of effective feedback: timeliness: the most effective feedback is timely. offer feedback when the team member can take action to improve, either immediately or shortly after the event in question.  04 specific: specificity in feedback is important so that team members understand their areas of strength and weakness. this allows them to improve specific skills.  05 detailed: providing details with feedback can help team members develop a clearer understanding of the areas in which they can improve. offer specific details about events and tasks.</slidetext>
+      <slidetext slideid="6mOi7YZnJRD.6pTrYMYblIP" slidebank="false" type="slide">giving feedback effectively is an essential skill in personal and professional relationships. when providing feedback, it's crucial to ensure that it is constructive, specific, and actionable. here's an outline of practical steps to follow when giving feedback:  01 effective feedback  02 state what you observed using factual and relevant examples 03 explain the impact of the actions or behaviors on the coworkers or the company.  practical steps to giving feedback ask for permission or clarify intent before sharing feedback  04 share the feedback in a respectful and constructive way.  06 offer suggestions and explain consequences for improvement. 07 pause and actively listen to the receiver’s response 08 relinquish control and allow freedom of choice for the next steps.</slidetext>
+      <slidetext slideid="6mOi7YZnJRD.5aAOaSuveBf" slidebank="false" type="slide">being a newly promoted leader can be a challenging but rewarding experience. by following these tips, you can increase your chances of success in your new role. as highlighted in the presentation, there are a number of things that newly promoted leaders can do to handle the challenges of their new role. here are a few tips:  conclusion  01 seek out training and development opportunities. there are a number of resources available to help new leaders develop the skills they need to be successful. 02 don't be afraid to ask for help. it's okay to ask for help from your manager, other leaders, or even your team members.  summary 03 set clear expectations. make sure your team members know what's expected of them. this will help to avoid confusion and conflict.  04 provide regular feedback. feedback is essential for helping your team members grow and develop.  05 celebrate successes. when your team achieves a goal, be sure to celebrate their success. this will help to motivate them and keep them engaged. 06 be patient. it takes time to learn how to be an effective leader. don't be afraid to make mistakes and learn from them.</slidetext>
+      <slidetext slideid="6mOi7YZnJRD.5rhbxkhZzuA" slidebank="false" type="slide">try again try again try again try again try again try again that is incorrect. please try again. incorrect continue continue continue continue continue continue you did not select the correct response. incorrect continue continue continue continue continue continue that's right!  you selected the correct response. correct  which of the following is not a reason why employee engagement important in an organization? engaged employees are more productive engaged employees are more productive engaged employees are more productive engaged employees are more productive engaged employees are more productive engaged employees are more productive engaged employees more creative engaged employees more creative engaged employees more creative engaged employees more creative engaged employees more creative engaged employees more creative engaged employees more likely to stay with their company. engaged employees more likely to stay with their company. engaged employees more likely to stay with their company. engaged employees more likely to stay with their company. engaged employees more likely to stay with their company. engaged employees more likely to stay with their company. engaged employees rarely come to work engaged employees rarely come to work engaged employees rarely come to work engaged employees rarely come to work engaged employees rarely come to work engaged employees rarely come to work  question 1 multiple choice quiz</slidetext>
+      <slidetext slideid="6mOi7YZnJRD.61pLLgzWDlQ" slidebank="false" type="slide">try again try again try again try again try again try again that is incorrect. please try again. incorrect continue continue continue continue continue continue you did not select the correct response. incorrect continue continue continue continue continue continue that's right!  you selected the correct response. correct  which of the following is not a challange a newly promoted leader might encounter? managing conflict managing conflict managing conflict managing conflict managing conflict managing conflict employees coming to work on time employees coming to work on time employees coming to work on time employees coming to work on time employees coming to work on time employees coming to work on time fostering an environment of collaboration fostering an environment of collaboration fostering an environment of collaboration fostering an environment of collaboration fostering an environment of collaboration fostering an environment of collaboration managing your peers and friends managing your peers and friends managing your peers and friends managing your peers and friends managing your peers and friends managing your peers and friends  quiz question 2 multiple choice quiz</slidetext>
+      <slidetext slideid="6mOi7YZnJRD.5nKTsy2RRYQ" slidebank="false" type="slide">try again try again try again try again try again try again that is incorrect. please try again. incorrect continue continue continue continue continue continue you did not select the correct response. incorrect continue continue continue continue continue continue that's right!  you selected the correct response. correct  which of the following is not a practical strategy that a leader can use to improve employee engagement? clear communication clear communication clear communication clear communication clear communication clear communication recognition and rewards recognition and rewards recognition and rewards recognition and rewards recognition and rewards recognition and rewards empowerment and autonomy empowerment and autonomy empowerment and autonomy empowerment and autonomy empowerment and autonomy empowerment and autonomy offer bribes offer bribes offer bribes offer bribes offer bribes offer bribes  question 3 multiple choice quize</slidetext>
+      <slidetext slideid="6mOi7YZnJRD.6mxOsJVp9NU" slidebank="false" type="slide">continue continue continue continue continue continue thank you. thank you  1 2 3 4 5      we are conducting a study to evaluate the effectiveness of the training programs. your feedback is valuable in helping us understand the impact of training on individual and organizational development. please answer the following questions honestly and to the best of your knowledge.  please rate the following statements on a scale of 1-5, where 1 represents "strongly disagree" and 5 represents "strongly agree." on a scale of 1 to 5 will the training positively influenced your career development within the organization? please rate the overall effectiveness of this training programs how much did the training programs enhance your skills and knowledge in the targeted areas? how much do you believe this training program will positively impact your job performance? on a scale of 1 to 5 how strong would you recommend this training program to your colleagues or peers?  survey question survey question feedback</slidetext>
+      <slidetext slideid="6mOi7YZnJRD.6A0PnJHhvaQ" slidebank="false" type="slide">email: nyoikehenry@gmail.com phone: 0723209302 name: henry nyoike contact information feel free to contact me</slidetext>
+      <slidetext slideid="6mOi7YZnJRD.6XiMASW1jlk" slidebank="false" type="slide"> restart course restart course restart course  now is the time to harness your curiosity, ignite your passion, and unlock your full potential. the world is evolving at an unprecedented pace, and in order to thrive, we must embrace a lifelong commitment to learning. thanks for completing the course exit course </slidetext>
+    </search>
+  </nav_data>
+  <resource_data description="&lt;p align='left'&gt;&lt;font face='Open Sans' style='font-size: 11px;' size='11' color='#444444'&gt;Here are some useful links and documents:&lt;/font&gt;&lt;/p&gt;">
+    <resources>
+      <resource url="http://how-companies-can-improve-employee-engagement-right-now" image="story_content/url.png" title="How Companies Can Improve Employee Engagement Right Now" />
+      <resource url="https://lattice.com/library/how-and-why-employee-feedback-drives-engagement" image="story_content/url.png" title="Employee Feedback " />
+      <resource url="https://www.managersresourcehandbook.com/giving-effective-feedback-to-employees/" image="story_content/url.png" title="The Right Way to Give Performance Feedback to an Employee" />
+      <resource url="https://www.valamis.com/hub/performance-management-process" image="story_content/url.png" title="Performance Management Process" />
+      <resource url="https://lattice.com/library/how-and-why-employee-feedback-drives-engagement" image="story_content/url.png" title="How (and Why) Employee Feedback Drives Engagement" />
+    </resources>
+  </resource_data>
+  <transcript_data />
+  <glossary_data />
+</bwFrame>
