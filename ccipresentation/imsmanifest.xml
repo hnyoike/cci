@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<manifest identifier="_68cnXSbpKWW_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+<manifest identifier="_6UFpSfivbRX_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
   <metadata>
     <schema>ADL SCORM</schema>
     <schemaversion>1.2</schemaversion>
@@ -56,22 +56,29 @@
   <organizations default="Upskilling_Leaders_to_Improve_Employee_Engagement_ORG">
     <organization identifier="Upskilling_Leaders_to_Improve_Employee_Engagement_ORG">
       <title>Upskilling Leaders to Improve Employee Engagement</title>
-      <item identifier="template02quiz-light_SCO" isvisible="true" identifierref="__68cnXSbpKWW_course_id_RES">
+      <item identifier="template02quiz-light_SCO" isvisible="true" identifierref="__6UFpSfivbRX_course_id_RES">
         <title>Upskilling Leaders to Improve Employee Engagement</title>
       </item>
     </organization>
   </organizations>
   <resources>
-    <resource identifier="__68cnXSbpKWW_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+    <resource identifier="__6UFpSfivbRX_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
       <file href="story_content/thumbnail.jpg" />
-      <file href="mobile/6Bn5VhuVA7G_65_P_2_0_712_538_DX1436_DY1436_CX712_CY538.jpg" />
-      <file href="mobile/6EfEhDaPozi_65_DX1440_DY1440_CX1132_CY849.png" />
-      <file href="mobile/6qOJurYvGpo_65_DX592_DY592_CX465_CY178.jpg" />
-      <file href="mobile/5dNpEg9GErI_65_DX614_DY614_CX482_CY188.jpg" />
-      <file href="mobile/69mev6DKXQN_65_P_303_0_803_824_DX976_DY976_CX428_CY440.png" />
+      <file href="mobile/6Bn5VhuVA7G_65_P_2_0_712_538.jpg" />
+      <file href="mobile/6EfEhDaPozi.png" />
+      <file href="story_content/6H1X0Wlmx1D_44100_56_1.mp3" />
+      <file href="story_content/6b0HAeSXCE9_captions.js" />
+      <file href="story_content/6KQClvFj9Av_44100_56_1.mp3" />
+      <file href="story_content/6CBnHLV2qoo_captions.js" />
+      <file href="story_content/6Nw3NZVcH1D_44100_56_1.mp3" />
+      <file href="story_content/6a3Ix0tZtZZ_captions.js" />
+      <file href="mobile/6qOJurYvGpo_65.jpg" />
+      <file href="mobile/5dNpEg9GErI_65.jpg" />
+      <file href="mobile/69mev6DKXQN_P_303_0_803_824.png" />
       <file href="story_content/report.html" />
-      <file href="mobile/5wLSC1ZbULt_65_DX1440_DY1440_CX618_CY376.png" />
+      <file href="mobile/5wLSC1ZbULt.png" />
       <file href="meta.xml" />
+      <file href="mobile/6JmCBBq47wo.jpg" />
       <file href="story_content/url.png" />
       <file href="story_content/user.js" />
       <file href="mobile/txt__default_6KMitTvSzux.png" />
@@ -108,6 +115,7 @@
       <file href="html5/data/js/data.js" />
       <file href="html5/data/js/frame.js" />
       <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/hls/hls.min.js" />
       <file href="html5/lib/scripts/bootstrapper.min.js" />
       <file href="html5/lib/scripts/frame.desktop.min.js" />
       <file href="html5/lib/scripts/frame.mobile.min.js" />
